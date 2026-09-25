@@ -1,6 +1,6 @@
-# PantryChef 
+# ChefMate
 
-**Cook with what you already have.** PantryChef is a full-stack, serverless AWS application that tracks your pantry, turns a photo of your fridge into a structured ingredient list (Amazon Rekognition), and generates recipes grounded in your *actual* pantry contents (Amazon Bedrock) — prioritizing ingredients closest to expiry, and emailing you before food goes to waste.
+**Cook with what you already have.** ChefMate is a full-stack, serverless AWS application that tracks your pantry, turns a photo of your fridge into a structured ingredient list (Amazon Rekognition), and generates recipes grounded in your *actual* pantry contents (Amazon Bedrock) — prioritizing ingredients closest to expiry, and emailing you before food goes to waste.
 
 Built as a 1-month solo applied project to complement AWS Solutions Architect Associate (SAA-C03) study. Designed to run end-to-end on a brand-new AWS account without exceeding Free Tier limits in any meaningful way — Bedrock is the only paid line item, and it's hard-capped.
 

@@ -1,0 +1,32 @@
+# AWS CDK
+cdk.out/
+.cdk.staging/
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Editor / OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node.js (if any frontend dependencies get added later)
+node_modules/
+dist/
+build/
+.env 
+.env.* 
+coverage/ 

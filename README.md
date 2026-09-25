@@ -6,7 +6,6 @@ Built as a 1-month solo applied project to complement AWS Solutions Architect As
 
 
 
-**Full PRD:** [`/docs/PRD.pdf`](./docs/PRD.pdf)
 
 ---
 

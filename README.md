@@ -4,8 +4,6 @@
 
 Built as a 1-month solo applied project to complement AWS Solutions Architect Associate (SAA-C03) study. Designed to run end-to-end on a brand-new AWS account without exceeding Free Tier limits in any meaningful way — Bedrock is the only paid line item, and it's hard-capped.
 
-[![CI](https://github.com/<your-username>/pantrychef/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/pantrychef/actions/workflows/ci.yml)
-[![Deploy](https://github.com/<your-username>/pantrychef/actions/workflows/deploy.yml/badge.svg)](https://github.com/<your-username>/pantrychef/actions/workflows/deploy.yml)
 
 
 **Full PRD:** [`/docs/PRD.pdf`](./docs/PRD.pdf)
@@ -237,10 +235,6 @@ A CloudWatch billing alarm fires (via SNS email) at a **$3** threshold. If cost 
 - [ ] Barcode scanning for faster pantry entry
 - [ ] Nutrition estimates per suggested recipe
 
-## License
 
-MIT — see [`LICENSE`](./LICENSE).
-
----
 
 *Built as a 1-month CS internship alternative project — AWS SAA-C03 applied track, Free Tier–first build. See [`/docs/PRD.pdf`](./docs/PRD.pdf) for the full requirements document.*

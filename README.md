@@ -7,7 +7,7 @@ Built as a 1-month solo applied project to complement AWS Solutions Architect As
 [![CI](https://github.com/<your-username>/pantrychef/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/pantrychef/actions/workflows/ci.yml)
 [![Deploy](https://github.com/<your-username>/pantrychef/actions/workflows/deploy.yml/badge.svg)](https://github.com/<your-username>/pantrychef/actions/workflows/deploy.yml)
 
-**Live demo:** `<CloudFront URL here>`
+
 **Full PRD:** [`/docs/PRD.pdf`](./docs/PRD.pdf)
 
 ---
